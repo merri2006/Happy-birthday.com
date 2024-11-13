@@ -1,0 +1,151 @@
+.anton-sc-regular {
+  font-family:"Anton SC", sans-serif;
+  font-style:normal;
+}
+.pacifico-regular {
+  font-family:"Pacifico", cursive;
+  font-style:normal;
+}
+
+
+body{
+    margin:0;
+    border:0;
+    font-family:sans-serif;
+}
+header{
+    background:transparent;
+    text-align:center;
+    padding-top:35px;
+    padding-bottom:5px;
+}
+.w{
+    font-size:65px;
+    text-shadow:0 0 0.1px rgba(0,0,0,0.3);
+    display:inline;
+    font-family:Anton SC;
+    letter-spacing:3.5px;
+    color:#00c0ff;
+}
+.container{
+    background:#00eaff27;
+    margin-top:35px;
+    margin-bottom:300px;
+    margin-left:60px;
+    padding-top:100px;
+    transition:background 0.2s;
+    margin-right:60px;
+    box-shadow:0 0 2.5px -2px rgba(0,0,0,0.3);
+}
+.container:hover{
+    background: url('Beltina.jpg');
+    background-size:cover;
+    background-position:center center;
+}
+.image{
+    background:transparent;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding-top:30px;
+    padding-bottom:30px;
+}
+.bal{
+    height:400px;
+    object-fit:cover;
+    object-position:center center;
+    width:400px;
+    border-radius:200px;
+    background-position:center center;
+    box-shadow:0 0 2.5px -2px rgba(0,0,0,0.3);
+}
+.Words{
+    background:transparent;
+    margin-top:50px;
+    text-align:center;
+    padding-top:25px;
+    padding-bottom:25px;
+}
+li{
+    list-style:none;
+    font-size:30px;
+    text-shadow:0 0 0.1px rgba(0,0,0,0.3);
+    padding:3px;
+}
+.happy{
+    font-size:65px;
+    font-family:Anton SC;
+    letter-spacing:3.5px;
+    color:#00c0ff;
+}
+.birth{
+    font-size:65px;
+    font-family:Pacifico;
+    font-weight:888;
+}
+.bel{
+    font-size:50px;
+    font-weight:666;
+    color:#00c0ff;
+}
+hr{
+   box-shadow:0 0 2.5px -2px rgba(0,0,0,0.2);
+   background:white;
+   border:0;
+   height:12px;
+}
+.Info{
+    background:#00c0ff;
+    padding-bottom:65px;
+    box-shadow:0 0 2.5px -2px rgba(0,0,0,0.3);
+}
+.you{
+    font-size:50px;
+    font-family:Anton SC;
+    text-shadow:0 0 0.1px rgba(0,0,0,0.3);
+    letter-spacing:3.5px;
+    padding-left:70px;
+    color:white;
+    padding-right:100px;
+}
+.tells{
+    font-size:40px;
+    padding-left:70px;
+    padding-right:80px;
+    font-weight:404;
+    text-shadow:0 0 0.1px rgba(0,0,0,0.3);
+}
+.be{
+    font-size:60px;
+    color:white;
+    font-weight:666;
+    padding-left:70px;
+    text-shadow:0 0 0.1px rgba(0,0,0,0.3);
+}
+.name{
+    font-size:65px;
+    font-family:Pacifico;
+    color:white;
+    font-weight:444;
+    padding-left:70px;
+    text-shadow:0 0 0.1px rgba(0,0,0,0.3);
+}
+.press{
+    background:transparent;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.blow{
+    font-size:50px;
+    font-weight:666;
+    text-shadow:0 0 0.1px rgba(0,0,0,0.3);
+    padding-top:17px;
+    padding-bottom:17px;
+    color:black;
+    padding-left:40px;
+    background:white;
+    padding-right:40px;
+    border:0;
+    box-shadow:0 0 2.5px -2px rgba(0,0,0,0.3);
+}
